@@ -1,0 +1,2 @@
+/Users/steelersrg8/Desktop/georgeMason/AR TEST/obj/Debug/Assembly-CSharp.csprojResolveAssemblyReference.cache
+/Users/steelersrg8/Desktop/georgeMason/AR TEST/obj/Debug/Assembly-CSharp.csproj.CoreCompileInputs.cache

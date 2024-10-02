@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{547B93E7-36EA-7FC7-072A-530B481FEA7E}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/PreFabScript1.cs">
+    <Files>
+      <File FileName="Assets/PreFabScript1.cs" Line="5" Column="28" />
+      <File FileName="../break/Assets/gameManager.cs" Line="37" Column="10" />
+      <File FileName="Assets/4bw1cngyboxs-millenium-falcon/PreFabScript.cs" Line="3" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
